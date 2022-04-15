@@ -25,3 +25,8 @@
 {
   width: 100%;
 }
+
+.compile-error{
+  color: red;
+  white-space: pre-line;
+}
